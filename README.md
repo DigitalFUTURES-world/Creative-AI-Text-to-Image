@@ -36,7 +36,9 @@ Provide insights of different AI models that could be integrated in Design workf
 
 ### Tutor’s Social Media
 https://www.linkedin.com/in/mayurmistry7/
+ 
 https://www.instagram.com/d__o_l_o__p/
+ 
 IG: @draw_you_in insta @d__o_l_o__p
 
 
