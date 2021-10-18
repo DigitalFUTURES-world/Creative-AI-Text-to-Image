@@ -1,5 +1,5 @@
 # Creative-AI-Text-to-Image
-This is the repository for The DigitalFUTURES session: Creative AI text to image
+This is the repository for The **DigitalFUTURES** session: **Creative AI text to image**
 Digital FUTURES Technical Tutorials
  
 
@@ -9,7 +9,7 @@ Digital FUTURES Technical Tutorials
 ### Daniel Russel
 
 
-#### YouTube Link: https://www.youtube.com/c/DigitalFUTURESworld
+#### YouTube Link of the session: https://www.youtube.com/c/DigitalFUTURESworld
 #### Presentation Link: https://docs.google.com/presentation/d/1jw2A1QsSElo1Fn0XzEHO_27tUhiQWnnaVRJLSTDuuLI/edit?usp=sharing
 
 
@@ -20,17 +20,19 @@ Provide insights of different AI models that could be integrated in Design workf
 
 
 ### Software/interface Links:
-https://colab.research.google.com/drive/1GFshq_xU01596J-lEZj-nJsIRNlIpXXh?usp=sharing
-https://colab.research.google.com/drive/1dJcFfR7oqWDy_73LJ0ker0OX7ONqjwd-?usp=sharing
-https://colab.research.google.com/drive/1z4lh7Yh8uzYQo6GFaCtw7lHc7Zwrqwx9?usp=sharing
-
+<ol>
+ <li>https://colab.research.google.com/drive/1GFshq_xU01596J-lEZj-nJsIRNlIpXXh?usp=sharing</li>
+ <li>https://colab.research.google.com/drive/1dJcFfR7oqWDy_73LJ0ker0OX7ONqjwd-?usp=sharing</li>
+ <li>https://colab.research.google.com/drive/1z4lh7Yh8uzYQo6GFaCtw7lHc7Zwrqwx9?usp=sharing</li>
+</ol>
 
 ### Topic: VQ-GAN_CLIP
-https://huggingface.co/spaces/akhaliq/VQGAN_CLIP
-https://colab.research.google.com/drive/1zBporKZalDnXImkHl_sje-dIQ8apZgiu?usp=sharing
-https://colab.research.google.com/drive/1z4lh7Yh8uzYQo6GFaCtw7lHc7Zwrqwx9?usp=sharing
-https://huggingface.co/spaces/akhaliq/VQGAN_CLIP
-
+<ol>
+ <li>https://huggingface.co/spaces/akhaliq/VQGAN_CLIP</li>
+ <li>https://colab.research.google.com/drive/1zBporKZalDnXImkHl_sje-dIQ8apZgiu?usp=sharing</li>
+ <li>https://colab.research.google.com/drive/1z4lh7Yh8uzYQo6GFaCtw7lHc7Zwrqwx9?usp=sharing</li>
+ <li>https://huggingface.co/spaces/akhaliq/VQGAN_CLIP</li>
+</ol<
 
 ### Tutor’s Social Media
 https://www.linkedin.com/in/mayurmistry7/
