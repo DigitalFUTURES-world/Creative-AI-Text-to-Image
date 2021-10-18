@@ -1,6 +1,8 @@
 # Creative-AI-Text-to-Image
 This is the repository for The **DigitalFUTURES** session: **Creative AI text to image**
 Digital FUTURES Technical Tutorials
+
+
 ![](images/1.png)
 ---
 ## Tutors: 
