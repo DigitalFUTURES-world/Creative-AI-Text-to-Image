@@ -2,7 +2,7 @@
 This is the repository for The **DigitalFUTURES** session: **Creative AI text to image**
 Digital FUTURES Technical Tutorials
  
-
+---
 ## Tutors: 
 ### Mayur Mistry, Daniel Escobar
 ## Guest Speaker: 
@@ -11,7 +11,7 @@ Digital FUTURES Technical Tutorials
 
 #### YouTube Link of the session: https://www.youtube.com/c/DigitalFUTURESworld
 #### Presentation Link: https://docs.google.com/presentation/d/1jw2A1QsSElo1Fn0XzEHO_27tUhiQWnnaVRJLSTDuuLI/edit?usp=sharing
-
+---
 
 ## Learning Objectives: 
 Have an overview of state of the art multimodal AI models for creative exploration 
