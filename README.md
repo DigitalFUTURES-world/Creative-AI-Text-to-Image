@@ -11,7 +11,7 @@ Digital FUTURES Technical Tutorials
 ### Daniel Russel
 
 
-#### YouTube Link of the session: https://www.youtube.com/c/DigitalFUTURESworld
+#### YouTube Link of the session: https://www.youtube.com/watch?v=cGvb8jfG0IA&t=15s
 #### Presentation Link: https://docs.google.com/presentation/d/1jw2A1QsSElo1Fn0XzEHO_27tUhiQWnnaVRJLSTDuuLI/edit?usp=sharing
 ---
 
